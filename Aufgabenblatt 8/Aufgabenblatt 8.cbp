@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Aufgabenblatt 8" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Aufgabenblatt 8" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++11" />
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Aufgabenblatt 8" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-std=c++11" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-std=c++11" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Ball.cpp" />
+		<Unit filename="Ball.hpp" />
+		<Unit filename="GeoObjekt.cpp" />
+		<Unit filename="GeoObjekt.hpp" />
+		<Unit filename="Kreis.cpp" />
+		<Unit filename="Kreis.hpp" />
+		<Unit filename="Metrik2D.cpp" />
+		<Unit filename="Metrik2D.hpp" />
+		<Unit filename="Metrik3D.cpp" />
+		<Unit filename="Metrik3D.hpp" />
+		<Unit filename="MetrikVerhalten.cpp" />
+		<Unit filename="MetrikVerhalten.hpp" />
+		<Unit filename="OperandenPassenNicht.cpp" />
+		<Unit filename="OperandenPassenNicht.hpp" />
+		<Unit filename="Punkt.cpp" />
+		<Unit filename="Punkt.hpp" />
+		<Unit filename="Punkt2D.cpp" />
+		<Unit filename="Punkt2D.hpp" />
+		<Unit filename="Punkt3D.cpp" />
+		<Unit filename="Punkt3D.hpp" />
+		<Unit filename="Quader.cpp" />
+		<Unit filename="Quader.hpp" />
+		<Unit filename="Rechteck.cpp" />
+		<Unit filename="Rechteck.hpp" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

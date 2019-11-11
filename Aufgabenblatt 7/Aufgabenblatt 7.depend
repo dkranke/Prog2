@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1557409309 source:c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 7\fifoelement.cpp
+	"FifoElement.hpp"
+
+1558015023 c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 7\fifoelement.hpp
+
+1558013697 source:c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 7\fifo.cpp
+	"Fifo.hpp"
+
+1558016842 c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 7\fifo.hpp
+	"FifoElement.hpp"
+	<iostream>
+
+1558013982 source:c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 7\fifoclasstest.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"Fifo.hpp"
+

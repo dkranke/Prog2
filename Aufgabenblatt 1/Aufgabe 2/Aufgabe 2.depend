@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1553174712 source:c:\users\domenik\documents\hs osnabrück\programmieren 2\aufgabenblatt 1\aufgabe 2\main.cpp
+	<fstream>
+	<iostream>
+	<iomanip>
+	<string>
+

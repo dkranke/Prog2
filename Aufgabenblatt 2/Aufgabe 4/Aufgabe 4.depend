@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1553179364 source:c:\users\domenik\documents\hs osnabrück\programmieren 2\aufgabenblatt 2\aufgabe 4\zaehler.cpp
+
+1553179793 source:c:\users\domenik\documents\hs osnabrück\programmieren 2\aufgabenblatt 2\aufgabe 4\inkrement.cpp
+	<iostream>
+	"zaehler.h"
+
+1553179640 c:\users\domenik\documents\hs osnabrück\programmieren 2\aufgabenblatt 2\aufgabe 4\zaehler.h
+

@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1553742768 source:c:\users\domenik\documents\hs osnabrück\programmieren 2\aufgabenblatt 4\aufgabe 2\istteilervon_n.cpp
+	"istTeilerVon_n.h"
+
+1553742665 c:\users\domenik\documents\hs osnabrück\programmieren 2\aufgabenblatt 4\aufgabe 2\istteilervon_n.h
+
+1553788395 source:c:\users\domenik\documents\hs osnabrück\programmieren 2\aufgabenblatt 4\aufgabe 2\main.cpp
+	"istTeilerVon_n.h"
+	"istNahe.h"
+	"istKuerzerAls.h"
+	"besitztMehrWorteAls.h"
+	<iostream>
+
+1553743344 source:c:\users\domenik\documents\hs osnabrück\programmieren 2\aufgabenblatt 4\aufgabe 2\istnahe.cpp
+	"istNahe.h"
+
+1553743281 c:\users\domenik\documents\hs osnabrück\programmieren 2\aufgabenblatt 4\aufgabe 2\istnahe.h
+
+1553743879 source:c:\users\domenik\documents\hs osnabrück\programmieren 2\aufgabenblatt 4\aufgabe 2\istkuerzerals.cpp
+	"istKuerzerAls.h"
+
+1553743818 c:\users\domenik\documents\hs osnabrück\programmieren 2\aufgabenblatt 4\aufgabe 2\istkuerzerals.h
+	<string>
+
+1553745157 source:c:\users\domenik\documents\hs osnabrück\programmieren 2\aufgabenblatt 4\aufgabe 2\besitztmehrworteals.cpp
+	"besitztMehrWorteAls.h"
+
+1553744943 c:\users\domenik\documents\hs osnabrück\programmieren 2\aufgabenblatt 4\aufgabe 2\besitztmehrworteals.h
+	<vector>
+	<string>
+	<sstream>
+	<iterator>
+
+1554904750 source:z:\programmieren 2\aufgabenblatt 4\aufgabe 2\main.cpp
+	"istTeilerVon_n.h"
+	"istNahe.h"
+	"istKuerzerAls.h"
+	"besitztMehrWorteAls.h"
+	<iostream>
+
+1554912163 z:\programmieren 2\aufgabenblatt 4\aufgabe 2\istteilervon_n.h
+
+1554912165 z:\programmieren 2\aufgabenblatt 4\aufgabe 2\istnahe.h
+
+1554912165 z:\programmieren 2\aufgabenblatt 4\aufgabe 2\istkuerzerals.h
+	<string>
+
+1554912165 z:\programmieren 2\aufgabenblatt 4\aufgabe 2\besitztmehrworteals.h
+	<vector>
+	<string>
+	<sstream>
+	<iterator>
+

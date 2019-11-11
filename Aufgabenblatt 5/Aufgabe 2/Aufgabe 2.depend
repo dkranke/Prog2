@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1554990763 source:z:\programmieren 2\aufgabenblatt 5\aufgabe 2\ringliste.cpp
+	"Ringliste.h"
+
+1554990560 z:\programmieren 2\aufgabenblatt 5\aufgabe 2\ringliste.h
+	<string>
+	<vector>
+	<iostream>
+
+1554911840 source:z:\programmieren 2\aufgabenblatt 5\aufgabe 2\ringlistespielerei.cpp
+	"Ringliste.h"
+	<iostream>
+	<iomanip>
+
+1554915440 source:y:\programmieren 2\aufgabenblatt 5\aufgabe 2\ringlistespielerei.cpp
+	"Ringliste.h"
+	<iostream>
+	<iomanip>
+
+1555865665 y:\programmieren 2\aufgabenblatt 5\aufgabe 2\ringliste.h
+	<string>
+	<vector>
+	<iostream>
+
+1554994620 source:y:\programmieren 2\aufgabenblatt 5\aufgabe 2\ringliste.cpp
+	"Ringliste.h"
+
+1556199534 source:c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 5\aufgabe 2\ringlistespielerei.cpp
+	"Ringliste.h"
+	<iostream>
+	<iomanip>
+
+1556198767 c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 5\aufgabe 2\ringliste.h
+	<string>
+	<vector>
+	<iostream>
+	<map>
+
+1556199136 source:c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 5\aufgabe 2\ringliste.cpp
+	"Ringliste.h"
+

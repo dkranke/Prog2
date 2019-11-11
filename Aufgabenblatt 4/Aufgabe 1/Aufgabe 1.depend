@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1553781420 source:c:\users\domenik\documents\hs osnabrück\programmieren 2\aufgabenblatt 4\aufgabe 1\main.cpp
+	<iostream>
+	<list>
+	<map>
+	<iostream>
+	<typeinfo>
+

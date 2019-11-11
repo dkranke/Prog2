@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1559735289 source:c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 8\ball.cpp
+	"Ball.hpp"
+
+1558621705 c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 8\ball.hpp
+	<cmath>
+	"GeoObjekt.hpp"
+	"Metrik3D.hpp"
+	"Punkt3D.hpp"
+
+1559828851 c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 8\geoobjekt.hpp
+	<string>
+	<sstream>
+	<typeinfo>
+	<cstring>
+	"MetrikVerhalten.hpp"
+	"OperandenPassenNicht.hpp"
+
+1559736134 c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 8\metrikverhalten.hpp
+	<cmath>
+	"Punkt.hpp"
+
+1558121242 c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 8\punkt.hpp
+	<string>
+	<sstream>
+
+1559828892 source:c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 8\geoobjekt.cpp
+	"GeoObjekt.hpp"
+
+1558621731 source:c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 8\kreis.cpp
+	"Kreis.hpp"
+
+1558621738 c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 8\kreis.hpp
+	<cmath>
+	"GeoObjekt.hpp"
+	"Metrik2D.hpp"
+	"Punkt2D.hpp"
+
+1559827926 source:c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 8\metrik2d.cpp
+	"Metrik2D.hpp"
+
+1559736242 c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 8\metrik2d.hpp
+	<typeinfo>
+	"MetrikVerhalten.hpp"
+	"Punkt2D.hpp"
+	"OperandenPassenNicht.hpp"
+
+1559827923 source:c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 8\metrik3d.cpp
+	"Metrik3D.hpp"
+
+1559736250 c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 8\metrik3d.hpp
+	<typeinfo>
+	"MetrikVerhalten.hpp"
+	"Punkt3D.hpp"
+	"OperandenPassenNicht.hpp"
+
+1559735680 source:c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 8\metrikverhalten.cpp
+	"MetrikVerhalten.hpp"
+
+1558048280 source:c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 8\punkt3d.cpp
+	"Punkt3D.hpp"
+
+1558120764 c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 8\punkt3d.hpp
+	"Punkt.hpp"
+
+1558549153 source:c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 8\quader.cpp
+	"Quader.hpp"
+
+1558134761 c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 8\quader.hpp
+	"GeoObjekt.hpp"
+	"Metrik3D.hpp"
+	"Punkt3D.hpp"
+
+1558549153 source:c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 8\rechteck.cpp
+	"Rechteck.hpp"
+
+1558135052 c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 8\rechteck.hpp
+	"GeoObjekt.hpp"
+	"Metrik2D.hpp"
+	"Punkt2D.hpp"
+
+1558121174 source:c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 8\punkt.cpp
+	"Punkt.hpp"
+
+1558113892 source:c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 8\punkt2d.cpp
+	"Punkt2D.hpp"
+
+1558120764 c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 8\punkt2d.hpp
+	"Punkt.hpp"
+
+1559828338 source:c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 8\operandenpassennicht.cpp
+	"OperandenPassenNicht.hpp"
+
+1559829050 c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 8\operandenpassennicht.hpp
+	<exception>
+
+1559828808 source:c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 8\main.cpp
+	"Punkt.hpp"
+	"Punkt2D.hpp"
+	"Punkt3D.hpp"
+	"GeoObjekt.hpp"
+	"Rechteck.hpp"
+	"Kreis.hpp"
+	"Quader.hpp"
+	"Ball.hpp"
+	"OperandenPassenNicht.hpp"
+	<iostream>
+

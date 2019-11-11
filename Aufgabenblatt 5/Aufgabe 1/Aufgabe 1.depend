@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1554913821 source:z:\programmieren 2\aufgabenblatt 5\aufgabe 1\datumspielerei.cpp
+	<iostream>
+	"Datum.h"
+
+1554914235 z:\programmieren 2\aufgabenblatt 5\aufgabe 1\datum.h
+	<iostream>
+	<string>
+	<sstream>
+	<vector>
+
+1554914210 source:z:\programmieren 2\aufgabenblatt 5\aufgabe 1\datum.cpp
+	"Datum.h"
+	<iostream>
+	<sstream>
+	<iomanip>
+	<vector>
+	<string>
+
+1556199865 source:c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 5\aufgabe 1\datumspielerei.cpp
+	<iostream>
+	"Datum.h"
+
+1554918006 c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 5\aufgabe 1\datum.h
+	<iostream>
+	<string>
+	<sstream>
+	<vector>
+
+1556199895 source:c:\users\dkr\documents\hs osnabrück\programmieren 2\aufgabenblatt 5\aufgabe 1\datum.cpp
+	"Datum.h"
+	<iostream>
+	<sstream>
+	<iomanip>
+	<vector>
+	<string>
+

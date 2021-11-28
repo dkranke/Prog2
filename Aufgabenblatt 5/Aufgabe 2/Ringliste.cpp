@@ -16,26 +16,26 @@ int Ringliste::operator+=(int zahl) {
 }
 
 map<int, int> zaehleListe(vector<int> liste) {
-    // Erstelle eine Map und erhöhe für jeden Eintrag der Liste einen Zähler
+    // Erstelle eine Map und erhÃ¶he fÃ¼r jeden Eintrag der Liste einen ZÃ¤hler
     map<int, int> result;
     for (int entry : liste) {
         result[entry]++;
     }
-    // Gebe die Map zurück
+    // Gebe die Map zurÃ¼ck
     return result;
 }
 
 bool gleicheListen(vector<int> first, vector<int> second) {
-    // Zähle beide Listen
+    // ZÃ¤hle beide Listen
     map<int, int> anzahlFirst = zaehleListe(first);
     map<int, int> anzahlSecond = zaehleListe(second);
 
-    // Falls die Größe ungleich ist sind in einer Liste mehr Einträge, es beinhaltet also nicht die gleichen Einträge
+    // Falls die GrÃ¶ÃŸe ungleich ist sind in einer Liste mehr EintrÃ¤ge, es beinhaltet also nicht die gleichen EintrÃ¤ge
     if (anzahlFirst.size() != anzahlSecond.size()) {
         return false;
     }
 
-    // Falls die Anzahl der Elemente unterschiedlich ist gebe false zurück
+    // Falls die Anzahl der Elemente unterschiedlich ist gebe false zurÃ¼ck
     for (const auto& kv : anzahlFirst) {
         if (kv.second != anzahlSecond[kv.first]) {
             return false;
@@ -61,11 +61,8 @@ unsigned int Ringliste::operator<<(int i) {
 
 unsigned int Ringliste::operator<<(Ringliste& rlist) {
     for (unsigned int i = 0; i < rlist.anzahl; i++) {
-        rlist >> liste[schreibmarker];
-        schreibmarker = (schreibmarker+1) % kapazitaet;
-        if (anzahl < kapazitaet) {
-            anzahl++;
-        }
+        rlist >> temp;
+        (*this) << temp;
     }
     return schreibmarker;
 }

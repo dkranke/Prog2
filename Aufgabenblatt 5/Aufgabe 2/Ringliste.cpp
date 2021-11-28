@@ -60,6 +60,7 @@ unsigned int Ringliste::operator<<(int i) {
 }
 
 unsigned int Ringliste::operator<<(Ringliste& rlist) {
+    int temp;
     for (unsigned int i = 0; i < rlist.anzahl; i++) {
         rlist >> temp;
         (*this) << temp;
